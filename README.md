@@ -1,27 +1,27 @@
-# Hola, me llamo Franco Gonzalo Vargas👋
+# Hello, my name is Franco Gonzalo Vargas👋
 
-Soy un desarrollador apasionado por las tecnologías de código abierto y la nube. Me gusta crear soluciones innovadoras y escalables usando las mejores prácticas y herramientas disponibles.
+I'm a developer passionate about open source and cloud technologies. I like to create innovative and scalable solutions using the best practices and tools available.
 
-## Mis habilidades 💻
+## My skills 💻
 
-- Lenguajes de programación: **Python**, **Bash**, **SQL**
-- Sistemas operativos: **Linux**, **Windows**
-- Contenedores: **Docker**, **Kubernetes**
-- Bases de datos: **MySQL**, **MongoDB**, 
-- Servicios en la nube: **AWS**
-- Control de versiones: **Git**, **GitHub**
-- Otras herramientas: **Flask**, **Django**, 
+- Programming languages: **Python**, **Bash**, **SQL**
+- Operating systems: **Linux**, **Windows**
+- Containers: **Docker**, **Kubernetes**
+- Databases: **MySQL**, **MongoDB**, 
+- Cloud services: **AWS**
+- Version control: **Git**, **GitHub**
+- Other tools: **Flask**, **Django**, 
 
-## Mis proyectos 🚀
+## My projects 🚀
 
-Aquí puedes ver algunos de los proyectos que he realizado o en los que he colaborado:
+Here you can see some of the projects I've done or collaborated on:
 
 
-## Mis contactos 📫
+## My contacts 📫
 
-Si quieres saber más sobre mí o contactarme, puedes hacerlo a través de:
+If you want to know more about me or contact me, you can do it through:
 
-- LinkedIn  https://www.linkedin.com/in/franco-gonzalo-vargas-60903a255/
-- Correo electrónico   frann.vargas26@gmail.com
+- LinkedIn https://www.linkedin.com/in/franco-gonzalo-vargas-60903a255/
+- Email frann.vargas26@gmail.com
 
-Gracias por visitar mi perfil. Espero que te haya gustado. 😊
+Thank you for visiting my profile. I hope you liked it. 😊
